@@ -4,7 +4,7 @@
 A brief description of what this project does and who it's for:
 
 * To fetch weather of any city of any country using this project.
-* The main theme behind choosing the project is to get work with API's.
+* The main theme behind choosing the project is to work with API's.
 
 
 
